@@ -12,7 +12,7 @@
 
 ### Projects
 - 🎵 [Realtime Music Generator](https://github.com/futurespyhi/Realtime_Music_Generator)  
-  A web app that converts speech to music in real-time. Built with React, Django, and OpenAI GPT-2.
+  A web app that converts speech to music in real-time. Built with React, Django, and DeepSeek-V3.
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
