@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Norton 👋
 
-<!--
-**futurespyhi/futurespyhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer
+- 🎓 Studying Computer Science at the University of Rochester.
+- 💻 Passionate about building real-time applications and exploring AI/ML.
+- 📫 How to reach me: [Email](mailto:futuresdehi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norton-gu-322737278/)
 
-Here are some ideas to get you started:
+### Skills
+- 💻**Programming Languages**: Python, JavaScript, TypeScript, C++, C, Java, Rust
+- 🛠️**Frameworks & Tools**: React, Django, Git, Docker, AWS, Spring Framework, MyBatis-Plus
+- 🎯**Interests**: Real-time systems, Music generation, FinTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🎵 [Realtime Music Generator](https://github.com/futurespyhi/Realtime_Music_Generator)  
+  A web app that converts speech to music in real-time. Built with React, Django, and OpenAI GPT-2.
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futurespyhi&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
