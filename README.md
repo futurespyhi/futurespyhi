@@ -14,8 +14,5 @@
 - 🎵 [Realtime Music Generator](https://github.com/futurespyhi/Realtime_Music_Generator)  
   A web app that converts speech to music in real-time. Built with React, Django, and OpenAI GPT-2.
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futurespyhi&show_icons=true&theme=radical)
-
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
