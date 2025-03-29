@@ -14,8 +14,10 @@
 - 🎵 [Realtime Music Generator](https://github.com/futurespyhi/Realtime_Music_Generator)  
   A web app that converts speech to music in real-time. Built with React, Django, DeepSeek-V3 and Spark-TTS.
 
+<!--
 - ✅ [To-Do List App](https://github.com/futurespyhi/todo-app)  
   A web application for managing a simple to-do list with user authentication. Built with React, Node.js, Express.js, and MongoDB. Features include user registration, login, and CRUD operations for tasks.
+-->
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
