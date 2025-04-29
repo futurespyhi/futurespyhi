@@ -11,8 +11,8 @@
 - 🎯**Interests**: Real-time systems, Music generation, FinTech
 
 ### Projects
-- 🎵 [Realtime Music Generator](https://github.com/futurespyhi/Realtime_Music_Generator)  
-  A web app that converts speech to music in real-time. Built with React, Django, DeepSeek-V3 and Spark-TTS.
+- 🎵 [MiloMusic](https://github.com/futurespyhi/MiloMusic)  
+  A music generator built on Gradio integrating the use of three LLMs. "gpt-4o-transcribe" converts people's voice into text, Gemini generate lyrics based on text and YuE makes splendid music based on the generated lyrics.
 
 <!--
 - ✅ [To-Do List App](https://github.com/futurespyhi/todo-app)  
