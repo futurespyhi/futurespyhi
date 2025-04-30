@@ -12,12 +12,9 @@
 
 ### Projects
 - 🎵 [MiloMusic](https://github.com/futurespyhi/MiloMusic)  
-  A music generator built on Gradio integrating the use of three LLMs. "gpt-4o-transcribe" converts people's voice into text, Gemini generate lyrics based on text and YuE makes splendid music based on the generated lyrics.
+  A music generator built on Gradio integrating the use of four LLMs. First,"gpt-4o-transcribe" converts people's voice into text. Next, llama-4-scout-17b-16e-instruct generates lyrics based on the user's request or changes, and asks again if they want further edits. Then, Gemini generates the final lyrics based on the conversation history, using a structure that YuE can process. Finally, YuE makes splendid music based on the formatted lyrics.
 
-<!--
-- ✅ [To-Do List App](https://github.com/futurespyhi/todo-app)  
-  A web application for managing a simple to-do list with user authentication. Built with React, Node.js, Express.js, and MongoDB. Features include user registration, login, and CRUD operations for tasks.
--->
+
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
