@@ -22,8 +22,7 @@
 - 🔮 [markov_chain_training_and_generator](https://github.com/futurespyhi/markov_chain_training_and_generator)
   A simple Markov chain which takes just one token. Train Method incrementally builds the chain, while MostLikelyAfter Method infers the given token to predict the next token
 
-### GitHub Stats
-![Norton's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurespyhi&show_icons=true&theme=radical)
+
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
@@ -31,5 +30,4 @@
 ### Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=futurespyhi&theme=github)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=futurespyhi&theme=radical)
+
