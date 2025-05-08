@@ -27,7 +27,5 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
 
-### Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=futurespyhi&theme=github)
 
 
