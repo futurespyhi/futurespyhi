@@ -1,5 +1,5 @@
 # Hi there, I'm Norton 👋
-### Aspiring Software Engineer
+### Aspiring Software Engineer and LLM Engineer
 - 🎓 Studying Computer Science at the University of Rochester.
 - 💻 Passionate about building real-time applications and exploring AI/ML.
 - 📫 How to reach me: [Email](mailto:futuresdehi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norton-gu-322737278/)
