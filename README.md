@@ -19,9 +19,6 @@
 - 🔄 [parallel-dijkstra-bfs](https://github.com/futurespyhi/parallel-dijkstra-bfs)
   Parallel implementation of Dijkstra and BFS algorithms for OpenStreetMap graph traversal with performance analysis
 
-- 🔮 [markov_chain_training_and_generator](https://github.com/futurespyhi/markov_chain_training_and_generator)
-  A simple Markov chain which takes just one token. Train Method incrementally builds the chain, while MostLikelyAfter Method infers the given token to predict the next token
-
 
 
 ### Top Languages
