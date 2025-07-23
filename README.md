@@ -12,13 +12,6 @@
 ### Projects
 - 🎵 [MiloMusic](https://github.com/futurespyhi/MiloMusic)  
   A music generator built on Gradio integrating the use of four LLMs. First,"gpt-4o-transcribe" converts people's voice into text. Next, llama-4-scout-17b-16e-instruct generates lyrics based on the user's request or changes, and asks again if they want further edits. Then, Gemini generates the final lyrics based on the conversation history, using a structure that YuE can process. Finally, YuE makes splendid music based on the formatted lyrics.
-  
-- 🔍 [imagefinder](https://github.com/futurespyhi/imagefinder)
-  A fun tool extracting all images from a given website
-
-- 🔄 [parallel-dijkstra-bfs](https://github.com/futurespyhi/parallel-dijkstra-bfs)
-  Parallel implementation of Dijkstra and BFS algorithms for OpenStreetMap graph traversal with performance analysis
-
 
 
 ### Top Languages
