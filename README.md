@@ -16,7 +16,7 @@ A music generator built on Gradio integrating the use of four LLMs. First,"gpt-4
 - 🤖 [MiloGPT](https://github.com/futurespyhi/miloGPT)
 A GPT-2 reproduction study from scratch, inspired by Andrej Karpathy's build-nanogpt. Implemented modern PyTorch optimizations including Flash Attention, fused AdamW, and proper weight initialization. Conducted learning rate ablation studies on 8×A100 GPUs, achieving 30%+ HellaSwag accuracy with cost-optimized training pipeline.
 
-- 🎵 [MiloBitcoin](https://github.com/futurespyhi/Milo_Bitcoin)  
+- ₿ [MiloBitcoin](https://github.com/futurespyhi/Milo_Bitcoin)  
 A conversational Bitcoin analysis assistant powered by RAG + Supervised Fine-tuned LLM - Featuring Milo, the smartest crypto cat on the internet!
 
 
