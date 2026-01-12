@@ -1,5 +1,5 @@
 # Hi there, I'm Norton 👋
-### Aspiring Software Engineer and LLM Engineer
+### Aspiring AI Researcher and Engineer
 - 🎓 Studying Computer Science at the University of Rochester.
 - 💻 Passionate about building real-time applications and exploring AI/ML.
 - 📫 How to reach me: [Email](mailto:futuresdehi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norton-gu-322737278/)
@@ -18,10 +18,6 @@ A GPT-2 reproduction study from scratch, inspired by Andrej Karpathy's build-nan
 
 - ₿ [MiloBitcoin](https://huggingface.co/HugMilo/milo-bitcoin-gpt-oss-20b-lora-v1)  
 A conversational Bitcoin analysis assistant powered by RAG + Supervised Fine-tuned LLM - Featuring Milo, the smartest crypto cat on the internet!
-
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurespyhi&layout=compact&theme=radical)
 
 
 
