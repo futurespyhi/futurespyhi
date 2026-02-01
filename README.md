@@ -1,6 +1,6 @@
 # Hi there, I'm Norton 👋
 ### Aspiring AI Researcher and Engineer
-- 🎓 Studying Computer Science at the University of Rochester.
+- 🎓 UofR MSCS and incoming PhD student at UCF.
 - 💻 Passionate about building real-time applications and exploring AI/ML.
 - 📫 How to reach me: [Email](mailto:futuresdehi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norton-gu-322737278/)
 
